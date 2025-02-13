@@ -12,4 +12,8 @@ x = 2*5
 
 #added divison
 
+<<<<<<< Updated upstream
 d =3 / 6 /8
+
+# added square root and in half way
+>>>>>>> Stashed changes
