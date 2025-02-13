@@ -12,4 +12,4 @@ x = 2*5
 
 #added divison
 
-d =3 / 6
+d =3 / 6 /8
